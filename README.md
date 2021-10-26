@@ -4,4 +4,4 @@ Run the program by gcc main.c having noted all he files are in the same director
 
 Execute the program by running ./main.out thereafter. 
 
-Good luck with the quiz11 Hpe you enjoy!
+Good luck with the quiz! Hope you enjoy!
